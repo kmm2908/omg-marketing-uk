@@ -1,0 +1,14 @@
+baseURL = 'https://omgmarketinguk.netlify.app/'
+languageCode = 'en-us'
+title = 'OMG Marketing UK - Digital Marketing Consultancy'
+theme = 'ananke'
+
+[params]
+  author = "OMG Marketing UK"
+  description = "Expert digital marketing consultancy helping businesses grow online through strategic marketing solutions."
+  favicon = ""
+  site_logo = ""
+  omit_header_text = false
+  background_color_class = "bg-black"
+  featured_image = ""
+  recent_posts_number = 3
