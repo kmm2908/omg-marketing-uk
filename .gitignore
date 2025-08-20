@@ -28,3 +28,5 @@ yarn-error.log*
 
 # Node modules (if using npm/yarn for assets)
 node_modules/
+# Local Netlify folder
+.netlify
