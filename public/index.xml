@@ -1,33 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Welcome to OMG Marketing UK on OMG Marketing UK - Digital Marketing Consultancy</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to OMG Marketing UK on OMG Marketing UK - Digital Marketing Consultancy</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 17:03:11 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About OMG Marketing UK</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Wed, 20 Aug 2025 17:03:11 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;about-omg-marketing-uk&#34;&gt;About OMG Marketing UK&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;We exist to help businesses transform their digital presence and achieve sustainable growth through strategic marketing solutions. Our passion lies in delivering measurable results that make a real difference to your bottom line.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-approach&#34;&gt;Our Approach&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategy First&lt;/strong&gt; - We start with understanding your business goals and target audience&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data-Driven&lt;/strong&gt; - Every decision is backed by analytics and performance insights&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Results-Focused&lt;/strong&gt; - We measure success by your business outcomes, not vanity metrics&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Transparent&lt;/strong&gt; - Clear reporting and honest communication throughout our partnership&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-choose-us&#34;&gt;Why Choose Us&lt;/h2&gt;&#xA;&lt;p&gt;With years of experience in digital marketing, we&amp;rsquo;ve helped businesses across various industries achieve their online goals. We combine creative thinking with technical expertise to deliver campaigns that truly perform.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact OMG Marketing UK</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Wed, 20 Aug 2025 17:03:11 +0100</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get In Touch&lt;/h1&gt;&#xA;&lt;p&gt;Ready to transform your digital marketing and accelerate your business growth? We&amp;rsquo;d love to hear from you.&lt;/p&gt;&#xA;&lt;h2 id=&#34;free-consultation&#34;&gt;Free Consultation&lt;/h2&gt;&#xA;&lt;p&gt;We offer a complimentary 30-minute consultation to discuss your business goals and how we can help you achieve them. No strings attached, just honest advice from marketing experts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-we-can-help&#34;&gt;How We Can Help&lt;/h2&gt;&#xA;&lt;p&gt;Whether you need:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A complete digital marketing strategy&lt;/li&gt;&#xA;&lt;li&gt;Help with a specific marketing challenge&lt;/li&gt;&#xA;&lt;li&gt;Ongoing marketing support and management&lt;/li&gt;&#xA;&lt;li&gt;Training for your internal team&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We&amp;rsquo;re here to provide solutions tailored to your business needs and budget.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our Digital Marketing Services</title>
-      <link>http://localhost:1313/services/</link>
-      <pubDate>Wed, 20 Aug 2025 17:03:11 +0100</pubDate>
-      <guid>http://localhost:1313/services/</guid>
-      <description>&lt;h1 id=&#34;our-digital-marketing-services&#34;&gt;Our Digital Marketing Services&lt;/h1&gt;&#xA;&lt;h2 id=&#34;digital-marketing-strategy&#34;&gt;Digital Marketing Strategy&lt;/h2&gt;&#xA;&lt;p&gt;Comprehensive marketing strategies tailored to your business goals, target audience, and industry landscape. We create roadmaps that align your marketing efforts with your business objectives.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s included:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Market research and competitor analysis&lt;/li&gt;&#xA;&lt;li&gt;Audience persona development&lt;/li&gt;&#xA;&lt;li&gt;Multi-channel marketing strategy&lt;/li&gt;&#xA;&lt;li&gt;Performance measurement framework&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;seo--content-marketing&#34;&gt;SEO &amp;amp; Content Marketing&lt;/h2&gt;&#xA;&lt;p&gt;Boost your online visibility and attract quality leads through strategic search engine optimization and compelling content creation.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s included:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OMG Marketing UK - Digital Marketing Consultancy</title><link>https://omgmarketinguk.netlify.app/</link><description>Recent content on OMG Marketing UK - Digital Marketing Consultancy</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 20 Aug 2025 17:03:11 +0100</lastBuildDate><atom:link href="https://omgmarketinguk.netlify.app/index.xml" rel="self" type="application/rss+xml"/><item><title>About OMG Marketing UK</title><link>https://omgmarketinguk.netlify.app/about/</link><pubDate>Wed, 20 Aug 2025 17:03:11 +0100</pubDate><guid>https://omgmarketinguk.netlify.app/about/</guid><description>&lt;h1 id="about-omg-marketing-uk">About OMG Marketing UK&lt;/h1>
+&lt;h2 id="our-mission">Our Mission&lt;/h2>
+&lt;p>We exist to help businesses transform their digital presence and achieve sustainable growth through strategic marketing solutions. Our passion lies in delivering measurable results that make a real difference to your bottom line.&lt;/p>
+&lt;h2 id="our-approach">Our Approach&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Strategy First&lt;/strong> - We start with understanding your business goals and target audience&lt;/li>
+&lt;li>&lt;strong>Data-Driven&lt;/strong> - Every decision is backed by analytics and performance insights&lt;/li>
+&lt;li>&lt;strong>Results-Focused&lt;/strong> - We measure success by your business outcomes, not vanity metrics&lt;/li>
+&lt;li>&lt;strong>Transparent&lt;/strong> - Clear reporting and honest communication throughout our partnership&lt;/li>
+&lt;/ul>
+&lt;h2 id="why-choose-us">Why Choose Us&lt;/h2>
+&lt;p>With years of experience in digital marketing, we&amp;rsquo;ve helped businesses across various industries achieve their online goals. We combine creative thinking with technical expertise to deliver campaigns that truly perform.&lt;/p></description></item><item><title>Contact OMG Marketing UK</title><link>https://omgmarketinguk.netlify.app/contact/</link><pubDate>Wed, 20 Aug 2025 17:03:11 +0100</pubDate><guid>https://omgmarketinguk.netlify.app/contact/</guid><description>&lt;h1 id="get-in-touch">Get In Touch&lt;/h1>
+&lt;p>Ready to transform your digital marketing and accelerate your business growth? We&amp;rsquo;d love to hear from you.&lt;/p>
+&lt;h2 id="free-consultation">Free Consultation&lt;/h2>
+&lt;p>We offer a complimentary 30-minute consultation to discuss your business goals and how we can help you achieve them. No strings attached, just honest advice from marketing experts.&lt;/p>
+&lt;h2 id="how-we-can-help">How We Can Help&lt;/h2>
+&lt;p>Whether you need:&lt;/p>
+&lt;ul>
+&lt;li>A complete digital marketing strategy&lt;/li>
+&lt;li>Help with a specific marketing challenge&lt;/li>
+&lt;li>Ongoing marketing support and management&lt;/li>
+&lt;li>Training for your internal team&lt;/li>
+&lt;/ul>
+&lt;p>We&amp;rsquo;re here to provide solutions tailored to your business needs and budget.&lt;/p></description></item><item><title>Our Digital Marketing Services</title><link>https://omgmarketinguk.netlify.app/services/</link><pubDate>Wed, 20 Aug 2025 17:03:11 +0100</pubDate><guid>https://omgmarketinguk.netlify.app/services/</guid><description>&lt;h1 id="our-digital-marketing-services">Our Digital Marketing Services&lt;/h1>
+&lt;h2 id="digital-marketing-strategy">Digital Marketing Strategy&lt;/h2>
+&lt;p>Comprehensive marketing strategies tailored to your business goals, target audience, and industry landscape. We create roadmaps that align your marketing efforts with your business objectives.&lt;/p>
+&lt;p>&lt;strong>What&amp;rsquo;s included:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Market research and competitor analysis&lt;/li>
+&lt;li>Audience persona development&lt;/li>
+&lt;li>Multi-channel marketing strategy&lt;/li>
+&lt;li>Performance measurement framework&lt;/li>
+&lt;/ul>
+&lt;h2 id="seo--content-marketing">SEO &amp;amp; Content Marketing&lt;/h2>
+&lt;p>Boost your online visibility and attract quality leads through strategic search engine optimization and compelling content creation.&lt;/p>
+&lt;p>&lt;strong>What&amp;rsquo;s included:&lt;/strong>&lt;/p></description></item></channel></rss>

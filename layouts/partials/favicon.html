@@ -1,0 +1,5 @@
+{{/* Favicon partial */}}
+{{ if site.Params.favicon }}
+<link rel="shortcut icon" href="{{ site.Params.favicon | absURL }}" type="image/x-icon">
+<link rel="icon" href="{{ site.Params.favicon | absURL }}" type="image/x-icon">
+{{ end }}

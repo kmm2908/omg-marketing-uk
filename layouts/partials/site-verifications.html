@@ -1,0 +1,18 @@
+{{/* Site verifications partial */}}
+{{- with site.Params.site_verification -}}
+  {{- with .google -}}
+    <meta name="google-site-verification" content="{{ . }}">
+  {{- end -}}
+  {{- with .bing -}}
+    <meta name="msvalidate.01" content="{{ . }}">
+  {{- end -}}
+  {{- with .baidu -}}
+    <meta name="baidu-site-verification" content="{{ . }}">
+  {{- end -}}
+  {{- with .facebook -}}
+    <meta name="facebook-domain-verification" content="{{ . }}">
+  {{- end -}}
+  {{- with .mastodon -}}
+    <link rel="me" href="{{ . }}">
+  {{- end -}}
+{{- end -}}
