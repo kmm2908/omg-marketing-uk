@@ -3,6 +3,31 @@ languageCode = 'en-us'
 title = 'OMG Marketing UK - Digital Marketing Consultancy'
 theme = 'ananke'
 
+[menu]
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "services"
+  name = "Services"
+  url = "/services/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 4
+
 [params]
   author = "OMG Marketing UK"
   description = "Expert digital marketing consultancy helping businesses grow online through strategic marketing solutions."
